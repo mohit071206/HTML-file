@@ -1,0 +1,101 @@
+body{
+    background-color: black;
+}
+.one{
+    background-color: rgb(35, 35, 109);
+    text-align: center;
+    padding: 4px;
+}
+
+h1{
+    color: rgb(67, 185, 232);
+}
+
+h3{
+    color: white;
+}
+
+.sec{
+     background-color: rgb(114, 114, 234);
+       padding-bottom: 1px;
+}
+
+a{
+    padding: 8px;
+    text-decoration: none;
+    color:white;
+    margin-left: 30px;
+}
+
+.third{
+     background-color: rgb(35, 35, 109);
+       padding-bottom: 1px;
+        width: 600px;
+    height: 450px;
+    margin-left: 50px;
+
+}
+
+#solar{
+    text-align: center;
+    padding-top: 30px;
+
+}
+img{
+    padding-left: 130px;
+}
+p{
+    color: white;
+    text-align: center;
+}
+
+.four{
+      background-color: rgb(35, 35, 109);
+        padding-bottom: 1px;
+         width: 600px;
+    height: 450px;
+    margin-left: 50px;
+}
+
+#galaxy{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.five{
+     background-color: rgb(35, 35, 109);
+     padding-bottom: 1px;
+      width: 600px;
+    height: 450px;
+    margin-left: 50px;
+}
+
+#black{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.six{
+     background-color: rgb(35, 35, 109);
+     padding-bottom: 1px;
+      width: 600px;
+    height: 450px;
+    margin-left: 50px;
+}
+
+#nebula{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.sev{
+     background-color: rgb(35, 35, 109);
+     padding-bottom: 1px;
+     
+}
+
+h3{
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
