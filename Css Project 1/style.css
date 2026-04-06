@@ -1,0 +1,93 @@
+body{
+    background-color: gray;
+}
+.first{
+    text-align: center;
+    background-color: white;
+    padding: 3px;
+}
+
+.second{
+    background-color: rgb(156, 186, 176);
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+
+a{
+    border: 2px solid rgb(107, 205, 216) ;
+    margin: 7px;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 3px;
+}
+
+.third{
+    background-color: white;
+    padding-left: 8px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+img{
+    border: 2px solid rgb(140, 176, 140);
+    padding: 4px;
+    background-color: white;
+}
+
+.four{
+    background-color: white;
+    padding-left: 4px;
+    padding-bottom: 5px;
+}
+
+.five{
+    background-color: white;
+    text-align: center;
+    
+}
+
+.six{
+    background-color:hsl(159, 24%, 76%);
+    padding: 5px;
+    padding-left: 8px;
+}
+
+.sev{
+    background-color: hsl(159, 24%, 76%);
+    padding: 5px;
+    padding-left: 8px;
+    margin-top: 10px;
+}
+
+.eig{
+    background-color: hsl(159, 24%, 76%);
+    padding: 5px;
+    padding-left: 8px;
+    margin-top: 10px;
+}
+
+img{
+    border: 2px solid rgb(174, 168, 168);
+    padding: 4px;
+}
+
+a{
+    margin-top: 10px;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+}
+
+.nine{
+background-color: white;
+padding: 5px;
+}
+
+.ten{
+    background-color: white;
+    padding-left: 9px;
+    padding-bottom: 5px;
+}
+
