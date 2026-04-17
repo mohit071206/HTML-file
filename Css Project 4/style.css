@@ -1,0 +1,117 @@
+body {background-color:rgb(179, 176, 176) ;
+}
+
+.first {
+    background-color: rgb(3, 3, 3);
+    text-align: center;
+    padding: 2px;
+    text-size-adjust: 10px;
+}
+
+h1 {
+    color: white;
+}
+
+
+.second {
+    background-image: url("https://pngmagic.com/inc/download.php?f=product_images%2Fluxury-car-wallpapers-in-4k-resolution-for-desktop_TZ9.jpg&id=TZ9");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    padding: 1px;   
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+}
+
+
+h3 {
+    text-align: center;
+}
+h6 {
+    text-align: center;
+}
+
+.button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color: rgb(202, 146, 25);
+    overflow: hidden;
+    transition: all 0.3s ease;
+
+}
+
+
+.card {
+    background-color: rgb(156, 166, 170);
+    border-radius: 2px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin: 20px;
+}
+
+.third {
+    background-color: rgb(3, 3, 3);
+    text-align: center;
+        padding: 1px;
+        margin: 0px;
+}
+
+h4 {
+    color: white;
+}
+
+
+.button:hover {
+     scale: 1.0;
+        background-color: rgb(212, 19, 19);
+        box-shadow: 5px 5px 0px rgba(0, 0, 0, 0.8);
+}
+
+
+
+.btn {
+    display: block;
+    margin: 0 auto;
+    padding: 4px 10px;
+    border-radius: 5px;
+    background-color: rgb(223, 139, 14);
+    overflow: hidden;
+    transition: all 0.3s ease;
+
+}
+.btn:hover {
+     scale: 1.1;
+        background-color: rgb(202, 24, 24);
+        box-shadow: 5px 5px 0px rgba(0, 0, 0, 0.9);
+}
+
+
+h6:hover {
+    scale: 1.1;
+}
+
+h3:hover { 
+    scale: 1.1;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 150px;
+    width: 200px;
+    border-radius: 2px;
+
+}
+
+.card:hover {
+    box-shadow: 0 8px 20px black;
+}
